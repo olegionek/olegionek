@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olegionek
-- 👀 I’m interested in programming, films, anime, books... and existentialism.
+- 👀 I’m interested in programming, films, anime, books... etc.
 - 🌱 I’m currently learning Java Core.
 
 <!---
